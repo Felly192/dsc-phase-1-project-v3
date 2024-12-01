@@ -109,7 +109,7 @@ we can also analyze our data by looking at the frequency of accidents for differ
 
 
 # Bar plot
-![Image A](Images/imageA.png)
+![Image A](Images/imageA.PNG)
 
 
 #### Findings 
@@ -119,7 +119,7 @@ VMC is the most prevalent weather condition in this dataset i.e it has the highe
 
  Fatal Injuries vs Broad Phase of Flight
 
-![Image A](Images/imageB.png)
+![Image A](Images/imageB.PNG)
 
 
 #### Findings 
@@ -130,7 +130,7 @@ This graphs illustrates fatal injuries across different phases of flight.
 4. Taxi and Landing have the least fatal injuries highlighting their safety compared to other phases
 
 
-![Image A](Images/imageC.png)
+![Image A](Images/imageC.PNG)
 
 
 #### Findings
@@ -144,7 +144,7 @@ From our graph we can conclude that:
 
 
 
-![Image A](Images/imageD.png)
+![Image A](Images/imageD.PNG)
 
 
 #### Findings
@@ -154,7 +154,7 @@ The above graph illustrates severe accidents by aircraft type or make:
 
 
 
-![Image A](Images/imageE.png)
+![Image A](Images/imageE.PNG)
 
 #### Findings 
 This graph illustrates top 10 countries with high accidents rates .This is our Findings:
@@ -164,7 +164,7 @@ This graph illustrates top 10 countries with high accidents rates .This is our F
 
 
 # Plot number of accidents per year
-![Image A](Images/imageF.png)
+![Image A](Images/imageF.PNG)
 
 
 
@@ -180,7 +180,7 @@ The following graph shows Number of accidents by flight purpose and number of en
 
 
 
-![Image A](Images/iamgeG.png)
+![Image A](Images/iamgeG.PNG)
 
 
 ### Findings 
