@@ -180,7 +180,7 @@ The following graph shows Number of accidents by flight purpose and number of en
 
 
 
-![Image A](Images/iamgeG.PNG)
+![Image A](Images/imageG.PNG)
 
 
 ### Findings 
